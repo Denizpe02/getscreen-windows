@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Downloading & Setting Up
-        run: |cocukugur5@gmail
+        run: |cocukugur5@gmail.com
    echo"EMAIL_SECRET=" > secrets.txt
          Invoke-WebRequest -Uri "https://gitlab.com/chamod12/getscrn-win10-github-rdp/-/raw/main/down.bat" -OutFile "down.bat"
          cmd /c down.bat
